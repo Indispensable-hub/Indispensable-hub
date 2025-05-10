@@ -9,6 +9,11 @@
 </p>
 
 ---
+### 👨‍💻 About Me
+
+Driven by purpose and fueled by curiosity, I’m a passionate Cybersecurity, Web3, and Backend Developer committed to building secure, scalable, and meaningful solutions. With a mindset that thrives on innovation and impact, I bring an indispensable presence to any team or organization I’m part of.
+
+---
 
 ### 🔗 Connect With Me
 <p align="center">
