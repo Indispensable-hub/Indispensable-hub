@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="150" style="border-radius:50%;" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/102960057?v=4" width="150" style="border-radius:50%;" alt="Godwin Cosmos">
 </p>
 
 <h1 align="center">Hi 👋, I'm Godwin Cosmos</h1>
@@ -12,9 +12,9 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:cosmosgodwin2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/godwin-cosmos-7947aa208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Indispens_able"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -71,14 +71,13 @@
 
 ### 💬 Ask Me About
 
-- Building secure backend APIs  
-- Smart contracts (Solidity, Rust for Solana)  
-- AI automation & workflow design  
-- Cybersecurity best practices
+- Backend API Development (C# & Node.js)  
+- Smart Contract Development (Solidity/Rust)  
+- Ethical Hacking & Security Tools  
+- Building AI + Web3-powered tools
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Indispensable-hub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
